@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "babel": {
+      "presets": [ "env", "react" ]
+  },
   "dependencies": {
     "react": "^15.5.3",
     "react-dom": "^15.5.3"

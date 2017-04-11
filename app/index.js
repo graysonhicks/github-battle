@@ -1,6 +1,4 @@
-import React, {
-    Component
-} from 'react';
+import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 require('./index.css');
 
@@ -11,7 +9,7 @@ require('./index.css');
 class App extends Component {
     render() {
         return (
-            <h1> Battlefield </h1>
+            <h1>Battlefield</h1>
         )
     }
 }
