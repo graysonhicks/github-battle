@@ -9,7 +9,11 @@ require('./index.css');
 class App extends Component {
     render() {
         return (
-            <h1>Battlefield</h1>
+            <div>
+                <h1>Battlefield</h1>
+                <p>Watch test</p>
+            </div>
+
         )
     }
 }
